@@ -1,0 +1,1 @@
+This project is for some of those lazy friends who are lazy but want to quickly open up their apps and websites on a single click. You could edit the functions for what happens and you could enjoy the peace. If you are not understanding this, you could clone this repo and run the main.pyw file.
